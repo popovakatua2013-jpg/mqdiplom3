@@ -651,7 +651,6 @@ button:hover {
 }
 
 .shop-card-title {
-  .shop-card-title {
   grid-column: 1 / -1;        /* добавила*/
   margin-bottom: 5px;
   font-size: 14px;
@@ -660,10 +659,8 @@ button:hover {
   text-transform: uppercase;
   overflow-wrap: break-word;   /*добавила */
 }
-}
 
 .shop-card-desc {
-  .shop-card-desc {
   grid-column: 1 / -1;        /*добавила  */
   font-size: 14px;
   line-height: 1.5;
@@ -671,7 +668,6 @@ button:hover {
   margin-bottom: 24px;
   min-width: 0;               /*добавила  */
   overflow-wrap: break-word;   /*добавила  */
-}
 }
 
 .shop-card-link {
@@ -706,7 +702,6 @@ button:hover {
 }
 
 .shop-card-button {
- .shop-card-button {
   grid-column: 2;             /*добавила */
   grid-row: 3;                /* добавила */
   align-self: center;         /* добавила */
@@ -724,7 +719,6 @@ button:hover {
   cursor: pointer;
   transition: background-color 0.3s ease;
   flex-shrink: 0;
-}
 }
 
 .shop-card-button:hover {
